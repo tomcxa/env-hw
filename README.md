@@ -1,3 +1,9 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b9vhysxwsf44icyu?svg=true)](https://ci.appveyor.com/project/tomcxa/env-hw)
+
+### DeployLink
+
+[env-hw](https://tomcxa.github.io/env-hw/)
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ---
